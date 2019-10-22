@@ -2,8 +2,6 @@ import json
 import jsonpath
 import requests
 import openpyxl
-import logging
-
 
 def test_user_master():
     global token_value
