@@ -41,3 +41,24 @@ def test_product_master():
     except:
             print("Can not hit product master api")
 
+def test_add_route():
+    API_URL = "https://qa-product.ivycpg.com/webapi/api/V2/BeatMaster/Masters"
+    path = open("/home/thileepan/Documents/API/beatmaster.json",'r')
+    json_request = json.loads(path.read())
+    response = requests.post(API_URL,headers=headers,data=json.dumps(dict(data),json_request))
+    print(response.text)
+
+
+
+def test_route_master():
+    rm = 'https://qa-product.ivycpg.com/webapi/api/V2/BeatMaster/Masters'
+    response = requests.post(rm,headers=headers,data=json.dumps(data))
+    assert response.status_code == 200
+    print(response.text)
+    try:
+        if response.status_code == 200:
+            print(response.status_code)
+    except:
+        print("Can not hit route master api")
+
+

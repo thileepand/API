@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6120d876-401e-40b5-ba53-5fa8daac56f5" name="Default" comment="" />
+    <list default="true" id="6120d876-401e-40b5-ba53-5fa8daac56f5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/03c725f9-eec5-465a-b351-1c6dcad52011-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/0a062ce0-bf5f-4735-a18f-176beb23e135-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/0e207058-dd7e-4023-9867-b47dc18a4b7c-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/10534994-bbec-4371-ae9b-7a1ac3226966-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/1236dd9b-8474-4b2c-a95e-53a34a9dc832-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/1c28e0c0-ad87-49c7-9b0c-aa9a0cc7fd77-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/28f01c7a-322a-4899-a725-9ef82bdcd3e2-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/3f6f76be-019c-422f-8bef-6813c8f7b0d2-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/5a60dbd0-7a03-4595-958e-b04cb17c313d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/5e8ea805-8ee2-4591-bd25-b4b225e8f940-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/6995efcf-b217-4b8a-97f9-5d7cab621ad4-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/6d2a7a18-a146-4805-9e0b-ce38dd3a7532-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/7776575f-fc95-4ce9-96d9-855bb750c5bb-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/79605bcd-e43d-4c47-83a8-e5c283df60a9-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/8aacca76-af27-4c50-8bcb-1e11e9294686-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/92063b25-e18e-4e77-b05e-fda837432f95-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/970b33c9-b5cf-41f7-8b34-4594e0f50885-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/a0bf094f-e106-4c47-accb-3525ba8bfb90-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/a2e5b6ec-ffe0-4fc1-ba92-c34965d81878-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/cf00e3b5-0685-4156-8bfa-9f7e0be00ee3-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/e49444f7-0d3b-4bdb-8c5b-1bdff0ed632d-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/eca01a00-52b5-4c39-9f0d-be9a0bdb4693-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/ef628691-779d-4fed-806e-58b3b4d536ce-attachment.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Report/f37a1492-851e-459d-b274-3f55104a03b5-result.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase/test_oAuthentication.py" afterPath="$PROJECT_DIR$/TestCase/test_oAuthentication.py" />
+    </list>
     <ignored path="JSON_WORK.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +50,7 @@
       <file leaf-file-name="test_Basic_Authentication.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCase/test_Basic_Authentication.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="170">
               <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -35,14 +62,14 @@
       <file leaf-file-name="test_request_chaining.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCase/test_request_chaining.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="204">
               <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Parsejson.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Parsejson.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Parsejson.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -57,8 +84,20 @@
       <file leaf-file-name="test_oAuthentication.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCase/test_oAuthentication.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="646">
+              <caret line="38" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Authentication.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/APITestCase/test_Authentication.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="44" column="78" selection-start-line="44" selection-start-column="78" selection-end-line="44" selection-end-column="78" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -69,9 +108,11 @@
       <file leaf-file-name="test_AddNew_Student.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCase/test_AddNew_Student.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="153">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,7 +120,7 @@
       <file leaf-file-name="test_CreateUser.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCase/test_CreateUser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
+            <state relative-caret-position="408">
               <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -96,6 +137,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,8 +167,10 @@
         <option value="$PROJECT_DIR$/TestCase/test_end_to_end.py" />
         <option value="$PROJECT_DIR$/TestCase/test_request_chaining.py" />
         <option value="$PROJECT_DIR$/TestCase/test_OAuthentication.py" />
-        <option value="$PROJECT_DIR$/TestCase/test_oAuthentication.py" />
         <option value="$PROJECT_DIR$/TestCase/test_Basic_Authentication.py" />
+        <option value="$PROJECT_DIR$/TestCase/test_oAuthentication.py" />
+        <option value="$PROJECT_DIR$/APITestCase/test_add_route.py" />
+        <option value="$PROJECT_DIR$/APITestCase/test_Authentication.py" />
       </list>
     </option>
   </component>
@@ -159,7 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,7 +233,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HTMLReport" />
+              <option name="myItemId" value="TestCase" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -202,12 +247,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BatchFile" />
+              <option name="myItemId" value="HTMLReport" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allure-report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSON_WORK" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSON_WORK" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APITestCase" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -222,7 +286,7 @@
       <recent name="$PROJECT_DIR$/GET_Request" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Parsejson">
+  <component name="RunManager" selected="Python tests.py.test in test_oAuthentication.py">
     <configuration default="false" name="py.test in test_Basic_Authentication.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -472,8 +536,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Parsejson" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_oAuthentication.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_oAuthentication.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Parsejson" />
         <item index="2" class="java.lang.String" itemvalue="Python.test_oAuthentication" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_Basic_Authentication.py" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_retailer_master" />
@@ -494,9 +558,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_oAuthentication_py - 2019.08.01 at 07h 18m 22s.xml">
-      <configuration name="py.test in test_oAuthentication.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test_oAuthentication_py - 2019.08.01 at 07h 19m 38s.xml">
       <configuration name="py.test in test_oAuthentication.py" configurationId="tests" />
     </history-entry>
@@ -524,28 +585,31 @@
     <history-entry file="py_test_in_test_oAuthentication_py - 2019.10.19 at 16h 24m 19s.xml">
       <configuration name="py.test in test_oAuthentication.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_test_oAuthentication_py - 2019.10.21 at 20h 50m 03s.xml">
+      <configuration name="py.test in test_oAuthentication.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="21" width="1303" height="642" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42335767" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5018248" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5018248" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39963505" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42335767" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39963505" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -564,36 +628,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestCase/test_Basic_Authentication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase/test_oAuthentication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase/test_Basic_Authentication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/test_oAuthentication.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -878,27 +912,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTMLReport/allure-report/index.html">
+    <entry file="file://$PROJECT_DIR$/HTMLReport_Old/allure-report/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase/test_oAuthentication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/test_CreateUser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
+        <state relative-caret-position="408">
           <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -906,17 +929,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase/test_AddNew_Student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/test_Basic_Authentication.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="170">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -926,7 +941,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/test_request_chaining.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="204">
           <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
           <folding />
         </state>
@@ -936,6 +951,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/test_oAuthentication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLReport/allure-report/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APITestCase/test_add_route.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/test_AddNew_Student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APITestCase/test_Authentication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="44" column="78" selection-start-line="44" selection-start-column="78" selection-end-line="44" selection-end-column="78" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
